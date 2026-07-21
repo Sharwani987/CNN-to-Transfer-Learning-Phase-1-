@@ -84,7 +84,3 @@ It increases dataset diversity, reduces overfitting, and improves generalization
 ## 🚀 Next Phase
 Phase 2 will extend this work to **Transfer Learning** using pretrained models (e.g., VGG16, ResNet, MobileNet) and compare them against custom CNNs.
 
----
-
-## 📜 License
-Open‑source project for educational purposes.
